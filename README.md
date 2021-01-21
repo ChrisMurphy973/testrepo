@@ -1,2 +1,2 @@
 # testrepo
-for demo
+for demo use, following the video
